@@ -3,8 +3,8 @@ from cell import Cell
 from maze import Maze
 
 def main():
-    num_rows = 3
-    num_cols = 4
+    num_rows = 24
+    num_cols = 32
     margin = 50
     screen_x = 800
     screen_y = 600
